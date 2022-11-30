@@ -5,5 +5,5 @@
 
 <h1 align="center">Install </h1>
 
-- Getting started from dashboard - [here](https://dashboard.ngrok.com/get-started/setup)\
+- Getting started from dashboard - [here](https://dashboard.ngrok.com/get-started/setup)
 - https://ngrok.com/docs/getting-started
